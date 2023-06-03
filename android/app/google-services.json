@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "546957608794",
+    "project_id": "devxecommerce",
+    "storage_bucket": "devxecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546957608794:android:34e4bf16d315d483ce1563",
+        "android_client_info": {
+          "package_name": "com.example.devxecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546957608794-eeijo3suip1u4q5k7orq06ntqhammahe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1X1rZjeLOvpEnTw_wlOyOKLwjsK35yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546957608794-eeijo3suip1u4q5k7orq06ntqhammahe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546957608794-8nqum3q0ephb3e06s5vd1ujt72dehh14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devxecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
